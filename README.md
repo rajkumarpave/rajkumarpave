@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajkumarpave
-- 👀 I’m specialized in React Js & React Native
+- 👀 I’m specialized in React JS, React Native, Next JS
 - 🌱 I’m currently learning Yii Php
 - 💞️ I’m looking to collaborate on React based projects
 - 📫 email me rajkumarpaveoffl@gmail.com
